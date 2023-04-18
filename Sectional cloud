@@ -5,7 +5,7 @@
 #define MIC_IN A0         // Use A0 for mic input
 #define LED_PIN     5     // Data pin to LEDS
 #define NUM_LEDS    150  
-#define BRIGHTNESS  150    // LED information 
+#define BRIGHTNESS  255    // LED information 
 #define LED_TYPE    WS2811
 #define COLOR_ORDER GRB 
 #define BUTTON_PIN 3
